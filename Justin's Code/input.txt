@@ -1,0 +1,41 @@
+NAME:
+csci170
+CURVE:
+A+ 95
+A 85
+A- 80
+B+ 75
+B 70
+B- 65
+C+ 60
+C 55
+C 50
+D+ 47
+D 43
+D- 40
+CATAGORIES:
+quiz 40
+homework 20
+programming 10
+final 30
+ASSIGNMENTS:
+homework 50 50
+quiz 9 10
+homework 43 50
+homework 50 50
+quiz 10 10
+homework 50 50
+homework 50 50
+quiz 7.2 10
+homework 50 50
+quiz 10 10
+homework 47 50
+quiz 9.5 10
+homework 50 50
+quiz 7 10
+homework 50 50
+final 46 50
+programming 10 10
+programming 10 10
+programming 10 10
+end

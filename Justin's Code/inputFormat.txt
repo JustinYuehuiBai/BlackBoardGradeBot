@@ -1,0 +1,9 @@
+NAME:
+[insert name of class]
+CURVE:
+[insert letter grades and the cutoff]
+CATAGORIES:
+[insert name of catagories and their weight]
+ASSIGNMENTS:
+[insert list of assignments, then the grade recieved, and total points]
+end

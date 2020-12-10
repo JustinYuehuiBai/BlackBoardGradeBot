@@ -1,0 +1,20 @@
+NAME:
+csci170
+CURVE:
+A+ 95
+A 85
+A- 80
+B+ 75
+B 70
+B- 65
+C+ 60
+C 55
+C 50
+D+ 47
+D 43
+D- 40
+CATAGORIES:
+Quiz 40
+Homework 20
+Final 30
+ASSIGNMENTS:
